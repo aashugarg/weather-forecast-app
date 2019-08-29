@@ -1,0 +1,25 @@
+.sb-divStyle {
+    background-image: url('https://wallpapersite.com/images/pages/pic_w/10471.png'); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center center; 
+    height: 50%;
+}
+
+.wc-weatherImg {
+    height:96px;
+    width:96px
+}
+
+.wc-tempDisplay {
+    font-size:84px;
+}
+
+.wc-weatherDetails {
+    font-size: 20px; 
+    color: #808080
+}
+
+.wc-time {
+    font-size: 20px;
+}
